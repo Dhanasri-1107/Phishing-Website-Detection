@@ -39,7 +39,8 @@ python app.py
 
 ## Screenshots
 
-(Add your UI screenshots here)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/83bd1a5a-b218-452e-9e5a-d041bd194f9a" />
+
 
 ## Author
 
